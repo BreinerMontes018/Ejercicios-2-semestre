@@ -4,7 +4,7 @@ public class Ejercicio2 {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Escriba un texto");
         String texto = entrada.nextLine();
-        System.out.println("");
+        System.out.println(" ");
         System.out.println("El texto escrito es: ");
         System.out.println(""+texto);
 
