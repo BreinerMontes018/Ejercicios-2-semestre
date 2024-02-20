@@ -5,6 +5,6 @@ public class Ejercicio21 {
         int dato = A;
         A = B;
         B = dato;
-        System.out.println(""+A+""+B);
+        System.out.println("La A ahora vale "+A+" y la B ahora vale "+B);
     }
 }
